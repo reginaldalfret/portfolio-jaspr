@@ -215,6 +215,7 @@ const List<StackItem> kStacks = [
   StackItem(name: "Buffalo", href: "/stacks/buffalo", badge: "Live Go", icon: "🦬", desc: "Go Buffalo · Go 1.27 · Plush SSR"),
   StackItem(name: "Leptos", href: "/stacks/leptos", badge: "Live WASM", icon: "🦀", desc: "Rust WebAssembly · Leptos 0.7 · CSR"),
   StackItem(name: "Jaspr", href: "/stacks/jaspr", badge: "Live Dart", icon: "🎯", desc: "Dart 3.13 · Jaspr 0.23 · SSR Hydration", isActive: true),
+  StackItem(name: "Vapor", href: "/stacks/vapor", badge: "Live Swift", icon: "💧", desc: "Swift 5.10 • Vapor 4 (SwiftNIO) • SSR"),
 ];
 
 @client
